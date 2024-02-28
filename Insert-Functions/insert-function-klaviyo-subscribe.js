@@ -134,5 +134,5 @@ async function onIdentify(event, settings) {
 		);
 	}
 
-	return event;
+	return event; 
 }
